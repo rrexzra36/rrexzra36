@@ -1,84 +1,78 @@
 <div align="center">
-  <img height="250" src="https://i.pinimg.com/originals/0b/2d/a6/0b2da6917cd284b8042aee08b9665dab.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/0b/2d/a6/0b2da6917cd284b8042aee08b9665dab.gif" />
 </div>
 
-###
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/reyhan-ezra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/rrexzra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Instagram" />
   </a>
 </div>
 
-###
+<br/>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rrexzra36.rrexzra36&"  />
-</div>
+<!-- <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rrexzra36.rrexzra36" alt="visitor badge" />
+</div> -->
 
-###
+<br/>
 
 <h1 align="center">Hola! 👋</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=I%27m+a+Machine+Learning+Engineer" alt="Typing SVG" />
+</p>
 
-<h3 align="center">👩‍💻  About Me</h3>
+---
 
-###
+<h3 align="start">👩‍💻 About Me</h3>
 
-<p align="center">I am an Information Systems student at UPN "Veteran" Yogyakarta, passionate about transforming data into actionable insights. With strong skills in data management, analysis, and reporting, I enjoy streamlining processes and supporting effective decision-making. My curiosity drives me to keep learning and exploring new technologies to solve real-world problems.</p>
+<p align="start">
+  Final-year Information Systems undergraduate at UPN "Veteran' Yogyakarta wth strong passion in Data Science and
+  Business Intelligence. Skilled in Microsoft Excel, Looker Studio. and data analysis. Experienced in mentoring.
+  leadership, and hands-on project development- Adept communicator in both English and Bahasa Indonesia, with
+strong presentation and interpersonal skills.
+</p>
 
-###
+---
 
-<h3 align="center">🛠 Languange and Tools</h3>
+<h3 align="start">🛠️ Languages & Tools</h3>
 
-###
+<p align="start">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
+---
 
-###
+<h3 align="center">🔥 My Stats</h3>
 
-<h3 align="center">🔥   My Stats :</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rrexzra36&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rrexzra36&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrexzra36&layout=compact&theme=dark&hide_border=true" height="130" alt="Top Languages" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rrexzra36&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/rrexzra36/rrexzra36/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rrexzra36/rrexzra36/output/snake.svg" alt="Snake animation" />
+</p>
