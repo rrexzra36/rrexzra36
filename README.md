@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/0b/2d/a6/0b2da6917cd284b8042aee08b9665dab.gif" />
+  <img src="images/rrexzra.gif" />
 </div>
 
 <br/>
@@ -21,10 +21,10 @@
 
 <br/>
 
-<h1 align="center">Hola! 👋</h1>
+<h1 align="center">Welcome to my Github! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=I%27m+a+Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=I%27m+an+Machine+Learning+Engineer" alt="Typing SVG" />
 </p>
 
 ---
