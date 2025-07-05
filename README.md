@@ -20,14 +20,11 @@
 <!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rrexzra36.rrexzra36" alt="visitor badge" />
 </div> -->
-<br>
 
-<div align="center">
-  <span style="font-size:2em; font-weight:bold;">
-    Welcome to my Github!
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" style="vertical-align:top" alt="Waving hand animated"/>
-  </span>
-</div>
+<h2 align="center">
+  Welcome to my Github!
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" style="vertical-align:top" alt="Waving hand animated"/>
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=I%27m+an+Machine+Learning+Engineer" alt="Typing SVG" />
