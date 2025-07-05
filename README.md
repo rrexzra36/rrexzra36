@@ -2,7 +2,7 @@
   <img src="images/rrexzra.gif" />
 </div>
 
-<div align="center">
+<div align="center" style="padding-top: 24px;">
   <a href="https://www.linkedin.com/in/reyhan-ezra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
