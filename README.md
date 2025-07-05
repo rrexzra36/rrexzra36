@@ -2,8 +2,6 @@
   <img src="images/rrexzra.gif" />
 </div>
 
-<br/>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/reyhan-ezra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
@@ -11,17 +9,21 @@
   <a href="https://www.instagram.com/rrexzra/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Instagram" />
   </a>
+  <a href="https://discord.com/users/588284768064503809" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="Discord" />
+  <a href="https://www.kaggle.com/reyhanezrabimantara" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" height="25" alt="Kaggle" />
+  </a>
 </div>
-
-<br/>
 
 <!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rrexzra36.rrexzra36" alt="visitor badge" />
 </div> -->
 
-<br/>
-
-<h1 align="center">Welcome to my Github! 👋</h1>
+<h1 align="center">
+  Welcome to my Github!
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" style="vertical-align:top" alt="Waving hand animated"/>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=I%27m+an+Machine+Learning+Engineer" alt="Typing SVG" />
@@ -32,10 +34,7 @@
 <h3 align="start">👩‍💻 About Me</h3>
 
 <p align="start">
-  Final-year Information Systems undergraduate at UPN "Veteran' Yogyakarta wth strong passion in Data Science and
-  Business Intelligence. Skilled in Microsoft Excel, Looker Studio. and data analysis. Experienced in mentoring.
-  leadership, and hands-on project development- Adept communicator in both English and Bahasa Indonesia, with
-strong presentation and interpersonal skills.
+I'm a tech enthusiast passionate about Data Science, Machine Learning, and building impactful applications. I love turning complex data into actionable insights.
 </p>
 
 ---
