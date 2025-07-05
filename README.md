@@ -1,8 +1,9 @@
 <div align="center">
   <img src="images/rrexzra.gif" />
 </div>
+<br>
 
-<div align="center" style="padding-top: 24px;">
+<div align="center">
   <a href="https://www.linkedin.com/in/reyhan-ezra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
@@ -19,11 +20,14 @@
 <!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rrexzra36.rrexzra36" alt="visitor badge" />
 </div> -->
+<br>
 
-<h1 align="center">
-  Welcome to my Github!
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" style="vertical-align:top" alt="Waving hand animated"/>
-</h1>
+<div align="center">
+  <span style="font-size:2em; font-weight:bold;">
+    Welcome to my Github!
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" style="vertical-align:top" alt="Waving hand animated"/>
+  </span>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=I%27m+an+Machine+Learning+Engineer" alt="Typing SVG" />
